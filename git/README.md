@@ -1,1 +1,1 @@
-This is a README file for the git directory
+I store files here, yaaay
